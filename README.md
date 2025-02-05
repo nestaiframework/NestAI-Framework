@@ -1,7 +1,7 @@
 ![BANNER 2](https://github.com/user-attachments/assets/24a65c93-f80b-4af0-a995-056b91d83d58)
 
 <p align="center">
-  <a href="https://nestai-framework.gitbook.io/nestai-framework">Gitbook</a> | 
+  <a href="https://nestai-framework.gitbook.io/nestai-framework">GitBook</a> | 
   <a href="https://github.com/nestaiframework">GitHub</a> | 
   <a href="https://x.com/NestAIFramework">Twitter</a> |
   <a href="https://www.npmjs.com/package/nestai-framework?activeTab=readme">NPM</a>
