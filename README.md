@@ -4,6 +4,7 @@
   <a href="https://nestai-framework.gitbook.io/nestai-framework">Gitbook</a> | 
   <a href="https://github.com/nestaiframework">GitHub Repository</a> | 
   <a href="https://x.com/NestAIFramework">Twitter</a>
+  <a href="https://www.npmjs.com/package/nestai-framework?activeTab=readme">Npm</a>
 </p>
 
 # **NestAI Framework**
