@@ -2,9 +2,9 @@
 
 <p align="center">
   <a href="https://nestai-framework.gitbook.io/nestai-framework">Gitbook</a> | 
-  <a href="https://github.com/nestaiframework">GitHub Repository</a> | 
-  <a href="https://x.com/NestAIFramework">Twitter</a>
-  <a href="https://www.npmjs.com/package/nestai-framework?activeTab=readme">Npm</a>
+  <a href="https://github.com/nestaiframework">GitHub</a> | 
+  <a href="https://x.com/NestAIFramework">Twitter</a> |
+  <a href="https://www.npmjs.com/package/nestai-framework?activeTab=readme">NPM</a>
 </p>
 
 # **NestAI Framework**
